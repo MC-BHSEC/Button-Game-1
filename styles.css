@@ -1,0 +1,12 @@
+#one {
+    background-color:lightblue;
+}
+
+.common {
+    background-color:lightgreen;
+}
+
+#lol {
+    float:right;
+    display: none;
+}
